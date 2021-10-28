@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[5],{171:function(e,t,n){"use strict";n.r(t);n(0);var o=n(2),i={container:{minHeight:"calc(100vh - 50px)",display:"flex",alignItems:"center",justifyContent:"center",background:"lavender"},title:{fontWeight:500,fontSize:48,textAlign:"center",color:"rgb(17 126 20)"}};t.default=function(){return Object(o.jsx)("div",{style:i.container,children:Object(o.jsx)("h1",{style:i.title,children:"Welcome to App Phonebook"})})}}}]);
+//# sourceMappingURL=5.5b110ff1.chunk.js.map
